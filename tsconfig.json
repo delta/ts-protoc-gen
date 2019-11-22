@@ -10,7 +10,7 @@
     "noImplicitAny": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "strictNullChecks": true,
+    "strictNullChecks": false,
     "stripInternal": true,
     "noFallthroughCasesInSwitch": true,
     "outDir": "lib",
